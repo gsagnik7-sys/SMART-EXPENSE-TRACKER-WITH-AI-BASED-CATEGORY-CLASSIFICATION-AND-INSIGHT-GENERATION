@@ -1,0 +1,11 @@
+id,date,product,amount,category
+2,2026-04-14 12:08,Books,500.0,Education
+3,2026-04-14 12:08,Dress,2000.0,Shopping
+4,2026-04-14 12:08,Hotstar,999.0,Entertainment
+5,2026-04-14 12:09,Biriyani,300.0,Food
+6,2026-04-14 12:09,Bus,70.0,Food
+7,2026-04-14 23:36,Phone Bill,399.0,Utilities
+8,2026-04-14 23:36,Haircut,100.0,Personal Care
+9,2026-04-15 22:55,Shampoo,200.0,Food
+10,2026-04-17 13:48,Uber,400.0,Travel
+11,2026-04-17 13:53,Sunscreen,350.0,Personal Care
