@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 # 💸 Smart Expense Tracker
 
 A production-quality Python desktop application for tracking personal expenses with an **AI-powered auto-category classifier** and a beautiful dark-themed GUI.
 
----
 
 ## ✨ Features
 
@@ -17,7 +16,6 @@ A production-quality Python desktop application for tracking personal expenses w
 | **Bar Chart** | Category comparison bar chart |
 | **CSV Storage** | All data saved to `data/expenses.csv` |
 
----
 
 ## 🏗 Project Structure
 
@@ -36,7 +34,6 @@ expense_tracker/
 └── README.md
 ```
 
----
 
 ## 🚀 Setup & Run
 
@@ -75,7 +72,6 @@ python main.py
 > sudo apt install python3-tk
 > ```
 
----
 
 ## 🤖 How the AI Works
 
@@ -89,7 +85,6 @@ The classifier uses **scikit-learn**:
 **Supported categories:**
 Food · Travel · Shopping · Entertainment · Health · Utilities · Education · Personal Care · Other
 
----
 
 ## 📋 Example Usage
 
@@ -103,7 +98,7 @@ Food · Travel · Shopping · Entertainment · Health · Utilities · Education 
 | shirt | Shopping |
 | udemy course | Education |
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -114,12 +109,9 @@ Food · Travel · Shopping · Entertainment · Health · Utilities · Education 
 - **matplotlib** — Charts & visualizations
 - **numpy** — Numerical operations
 
----
+
 
 ## 📄 License
 
 MIT — free to use, modify, and distribute.
-=======
-# SMART-EXPENSE-TRACKER-WITH-AI-BASED-CATEGORY-CLASSIFICATION-AND-INSIGHT-GENERATION
-Smart expense tracker with AI-based category prediction using NLP (TF-IDF + Naive Bayes). Includes interactive GUI, data visualization, insights generation, and CSV-based storage for efficient financial management.
->>>>>>> d5baafa2a4589a4fd2421af21b77c6384a14fb32
+
