@@ -17,6 +17,15 @@ A production-quality Python desktop application for tracking personal expenses w
 | **CSV Storage** | All data saved to `data/expenses.csv` |
 
 
+## 📸 Screenshots
+
+![Expense Table](screenshots/table.png)
+![Add Expense](screenshots/add.png)
+![Summary](screenshots/summary.png)
+![Pie Chart](screenshots/pie.png)
+![Bar Chart](screenshots/bar.png)
+
+
 ## 🏗 Project Structure
 
 ```
